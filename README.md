@@ -1,4 +1,8 @@
-### Hi there 👋
+# Halo Semuanya!👋🏻
+Perkenalkan nama saya **Muhammad Rio Ananta Firdaus**.  
+Saya seorang Mahasiswa di **Universitas Komputer Indonesia**, dan mengambil jurusan **Sistem Informasi**.  
+Saat ini, saya sedang mengikuti program Pengembang Aplikasi Android di [Dicoding](https://www.dicoding.com).  
+Jika tertarik untuk mengenal saya lebih jauh lagi, silahkan *follow* akun [LinkedIn](https://www.linkedin.com/in/rioananta)ku ya!🤙🏻
 
 <!--
 **mhmdrioaf/mhmdrioaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
