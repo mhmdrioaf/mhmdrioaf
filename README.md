@@ -1,8 +1,8 @@
 # Hello Everyone!👋🏻
-My name is **Muhammad Rio Ananta Firdaus**, you can call me **Rio**.
+My name is **Muhammad Rio Ananta Firdaus**, you can just call me **Rio**.  
 I'm a student from **Universitas Komputer Indonesia**, and majoring **Information Systems (_Sistem Informasi_)**.  
 Currently, I'm learning Android Development at [Dicoding Indonesia](https://www.dicoding.com).  
-You can find me on [LinkedIn](https://www.linkedin.com/in/rioananta) or [Instagram](https://www.instagram.com/mhmdrioaf)
+You can find me on [LinkedIn](https://www.linkedin.com/in/rioananta) or [Instagram](https://www.instagram.com/mhmdrioaf)  
 If you wanna know me further, just hang me up! Thanks🤙🏻
 
 <p align="left">
